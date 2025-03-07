@@ -1,51 +1,35 @@
-# Hi, I'm DarthMuzammil 👋
+# Hi, I'm Muzammil 👋
 
-I'm a passionate software developer and AI enthusiast focused on building innovative solutions in the AI LLM space. I love contributing to open source, publishing useful pip packages, and pushing the boundaries of modern software development.
+I'm a full-stack software engineer and AI enthusiast based in Bengaluru, with a focus on innovative projects in the AI LLM space. I enjoy building tools that simplify complex tasks and continuously improve developer workflows.
 
----
+## 📦 Featured Project: llmcodxtractor
 
-## 🚀 Featured Project: CodeSquire
+I built and published **llmcodxtractor** – a PyPI pip library designed to validate local LLM queries. This tool automatically re-prompts within the same session (using a predefined constant) until it receives an output in the correct format.  
+[View llmcodxtractor on PyPI](https://pypi.org/project/llmcodxtractor/)  
+*(Download stats and additional details available on the PyPI page.)*
 
-**CodeSquire** is my flagship project in the AI LLM domain. It’s a cutting‐edge code review assistant built with Vite, React, shadcn/ui, and TypeScript. Leveraging state-of-the-art models like **Llama3.2:latest** and **Deep Seek**, CodeSquire redefines how developers interact with and review code.  
-[Explore CodeSquire →](https://github.com/DarthMuzammil/CodeSquire)
+## 📝 Resume Highlights
 
----
+I have around 2 years of professional experience in full-stack development, focusing on:
+- Building robust APIs with FastAPI and integrating them with PostgreSQL.
+- Developing frontend solutions using Next.js and React.
+- Managing DevOps pipelines and working with container orchestration tools like Docker and Kubernetes.
 
-## 📦 Pip Packages
+For more details, please [view my resume](./MohammedMuzammilResume.pdf).
 
-I also publish several Python packages on PyPI that empower developers to integrate AI-driven features into their projects.  
-- **ai-tools-lib:** A library for AI utilities – *10k+ downloads*  
-- **smart-review:** A package to enhance code review workflows – *5k+ downloads*  
-- **data-streamer:** A framework for robust data pipelines – *15k+ downloads*  
+## 💻 Tech Stack
 
-*Check out my packages on [PyPI](https://pypi.org/user/DarthMuzammil) for details and download stats.*
-
----
-
-## 💻 Tech Stack & Skills
-
-I continuously build and contribute using a diverse set of modern technologies:
-
-- **Frontend:** Next.js, React, shadcn/ui, Vite
-- **Backend:** Python, FastAPI, LangChain
-- **AI/ML:** Llama3.2:latest, Deep Seek
+- **Frontend:** Next.js, React, Vite, shadcn/ui, TypeScript  
+- **Backend:** Python, FastAPI, LangChain  
+- **AI/ML:** Llama3.2:latest, Deep Seek  
 - **DevOps & Cloud:** Azure, Kubernetes, Docker, Nginx, Redis, Kafka
-
----
 
 ## 📈 GitHub Activity
 
-I maintain a strong daily commit streak and regularly push updates to my projects. Here are some stats that reflect my contributions:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarthMuzammil)
+I maintain a strong daily commit streak and regularly push updates to my projects.  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarthMuzammil)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthMuzammil&layout=compact)
 
 ---
 
-## 🌐 Connect with Me
-
-- [GitHub](https://github.com/DarthMuzammil)
-- [LinkedIn](https://www.linkedin.com/in/muzammil-inamdar/)
-- [Twitter](https://twitter.com/YourTwitterHandle)
-
-*Always learning. Always innovating.*
+Feel free to explore my work, and don't hesitate to reach out if you'd like to collaborate!
